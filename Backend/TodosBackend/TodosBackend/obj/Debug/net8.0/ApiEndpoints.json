@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TodosBackend.Controllers.TodoController",
+    "Method": "GetAllTask",
+    "RelativePath": "v1/api/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackend.Controllers.TodoController",
+    "Method": "AddTask",
+    "RelativePath": "v1/api/todos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tasks",
+        "Type": "TodosBackend.DTOs.AddTaskListsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackend.Controllers.TodoController",
+    "Method": "GetTaskById",
+    "RelativePath": "v1/api/todos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackend.Controllers.TodoController",
+    "Method": "UpdateTask",
+    "RelativePath": "v1/api/todos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateTaskDTO",
+        "Type": "TodosBackend.DTOs.UpdateTaskListsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodosBackend.Controllers.TodoController",
+    "Method": "Delete",
+    "RelativePath": "v1/api/todos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

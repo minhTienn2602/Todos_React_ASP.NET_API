@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\data\\todosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\data\\todosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\dtos\\addtasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\dtos\\addtasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\dtos\\tasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\dtos\\tasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\dtos\\updatetasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\dtos\\updatetasklistsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Migrations\\20241015075528_init_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodosBackend\\Migrations\\20241015075528_init_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\firstgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\firstgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|d:\\asp_project\\todos\\backend\\todosbackend\\todosbackend\\todosbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C87BA63C-0A26-41F2-A69B-A354A6AE8BEA}|TodosBackend\\TodosBackend.csproj|solutionrelative:todosbackend\\todosbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddTaskListsDTO.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\AddTaskListsDTO.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\DTOs\\AddTaskListsDTO.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\AddTaskListsDTO.cs",
+              "RelativeToolTip": "TodosBackend\\DTOs\\AddTaskListsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:20:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodosBackend\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:02:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskListsDTO.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\TaskListsDTO.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\DTOs\\TaskListsDTO.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\TaskListsDTO.cs",
+              "RelativeToolTip": "TodosBackend\\DTOs\\TaskListsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:08:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodosBackend",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\TodosBackend.csproj",
+              "RelativeDocumentMoniker": "TodosBackend\\TodosBackend.csproj",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\TodosBackend.csproj",
+              "RelativeToolTip": "TodosBackend\\TodosBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T07:52:07.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Models\\TaskList.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\Models\\TaskList.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Models\\TaskList.cs",
+              "RelativeToolTip": "TodosBackend\\Models\\TaskList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:20:09.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FirstGeneration.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\FirstGeneration.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\FirstGeneration.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\FirstGeneration.cs",
+              "RelativeToolTip": "TodosBackend\\FirstGeneration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:52:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Program.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\Program.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Program.cs",
+              "RelativeToolTip": "TodosBackend\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:46:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTaskListsDTO.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\UpdateTaskListsDTO.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\DTOs\\UpdateTaskListsDTO.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\DTOs\\UpdateTaskListsDTO.cs",
+              "RelativeToolTip": "TodosBackend\\DTOs\\UpdateTaskListsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:20:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodosDbContext.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Data\\TodosDbContext.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\Data\\TodosDbContext.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Data\\TodosDbContext.cs",
+              "RelativeToolTip": "TodosBackend\\Data\\TodosDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:03:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "TodosBackend\\appsettings.json",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\appsettings.json",
+              "RelativeToolTip": "TodosBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:08:42.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241015075528_init_.cs",
+              "DocumentMoniker": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Migrations\\20241015075528_init_.cs",
+              "RelativeDocumentMoniker": "TodosBackend\\Migrations\\20241015075528_init_.cs",
+              "ToolTip": "D:\\ASP_project\\ToDos\\Backend\\TodosBackend\\TodosBackend\\Migrations\\20241015075528_init_.cs",
+              "RelativeToolTip": "TodosBackend\\Migrations\\20241015075528_init_.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:55:28.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
